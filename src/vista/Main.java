@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package hibernateutil;
+package vista;
 
 import conexion.AlumnoDao;
 import pojos.Alumnos;
@@ -12,7 +12,7 @@ import pojos.Alumnos;
  *
  * @author mrsops
  */
-public class HibernateUtil {
+public class Main {
 
     /**
      * @param args the command line arguments
